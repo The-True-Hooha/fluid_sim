@@ -1,5 +1,5 @@
 """
-using the lattice boltzman method for this example
+lattice boltzman method imagines a fluid as a collection of particles moving and colliding on a grid.
 """
 
 import numpy as np
